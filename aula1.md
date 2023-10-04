@@ -3,7 +3,7 @@
 Python é uma linguagem de programação de alto nível e uso geral, criada em 1991 por Guido Von Rossum, tendo como máxima ser uma linguagem simples de aprender, fácil de entender, e bastante expressiva em seu código. Ela virou a língua-mãe para projetos que precisam de uma prototipação rápida e que demande o menor número possível de mão de obra, exatamente pela sua simplicidade e eficiência.
 
 Por prezar em ser uma linguagem fácil e de fácil digestão, ela se tornou também a linguagem favorita para introduzir novas pessoas ao mundo da programação, fazendo milhares se apaixonarem e com ela ficam.
-Não à toa ela é a terceira linguagem mais usada no mundo, segundo [pesquisa do StackOverflow](https://stackoverflow.blog/2023/06/13/developer-survey-results-are-in/) e da Universidade de 
+Não à toa ela é a terceira linguagem mais usada no mundo, segundo [pesquisa do StackOverflow](https://stackoverflow.blog/2023/06/13/developer-survey-results-are-in/) 
 
 E hoje vamos aprender um pouco mais dessa linguagem amada e infame entre os programadores, e descobrir como e porque ela se tornou tão usada. 
 
@@ -29,6 +29,8 @@ Mas não é a única implementação, sendo as mais famosas:
 
 Apesar de cada um trazer suas vantagens e desvantagens, dificilmente você precisará usar qualquer outra versão senão a oficial da Fundação Python. Mas se um dia a curiosidade bater, baixe algumas dessas outras implementações e brinque um pouco com elas!
 
+## Para o que se usa Python?
+
 
 
 ## A Parte Feia do Python
@@ -39,7 +41,7 @@ Apesar dos seus positivos quase massacrar seus pontos negativos, eles ainda exis
 
 > "Tudo que pode ser escrito em JavaScript, um dia será."
 
-Apesar de se referir a JavaScript, ela se encaixa supreendentemente bem no ecossistema de Python, que é tão usado (se não mais) que JavaScript.E apesar de ser uma regra semi-sarcástica, ela é seguida com esmero pelas pessoas, que tem um hiperfoco em uma única linguagem de programação e querem fazer absolutamente tudo com aquela mesma linguagem. 
+Apesar de se referir a JavaScript, ela se encaixa supreendentemente bem no ecossistema de Python, que é tão usado (se não mais) que JavaScript. E apesar de ser uma regra semi-sarcástica, ela é seguida com esmero pelas pessoas, que tem um hiperfoco em uma única linguagem de programação e querem fazer absolutamente tudo com aquela mesma linguagem. 
 
 Python tem alguns problemas fatais que vem com a sua simplicidade e facilidade como mantra, e que devem ser consideradas durante a escolha como a tecnologia para um projeto sério. Sendo alguns deles:
 
@@ -48,12 +50,11 @@ Python tem alguns problemas fatais que vem com a sua simplicidade e facilidade c
 - **O "Inferno de Dependências":** Em projetos maiores, as dependências de um programa Python se torna uma grande dor de cabeça, uma vez que o gerenciador de pacotes PIP não se dá bem em desemaranhar esses problemas.
 - **Dificuldade com Paralelismo:** O Python possui um problema chamado de *Global Interpreter Lock* (GIL) que impede o intepretador de ter múltiplas threads executando código Python simultaneamente no mesmo processo. O que faz paralelismo na linguagem seja bastante limitado, em comparação com linguagemns que a possem nativamente como Go ou Rust.
 
-A lista até pode ser pequena de desvantagens, mas não deixe se enganar, em larga escala ela se tornará uma dor de cabeça sem tamanho.
+A lista até pode ser pequena de desvantagens, mas não deixe se enganar, em larga escala ela se tornará uma dor de cabeça sem tamanho. Lembre-se:
 
-**Lembre-se: Em programação não existe uma solução milagrosa para seus problemas, estude os casos de uso de uma linguagem antes de usá-la em um projeto.**
+**Em programação não existe uma solução milagrosa para seus problemas, estude os casos de uso de uma linguagem antes de usá-la em um projeto.**
 
-
-Tudo isso para dizer: pelo amor de deus parem de usar Python pra fazer jogos e aplicativos mobile, e aprendam uma outra linguagem de programação, eu imploro. 
+Tudo isso para dizer: pelo amor de deus parem de usar Python pra fazer jogos e aplicativos mobile, aprendam uma outra linguagem de programação, eu imploro. 
 
 ## Preparação de um Ambiente Python
 
