@@ -15,20 +15,20 @@
 
 *Aula 1*
 
-- História e importância do Python
+- História e importância do Python -> OK
 - Configuração do ambiente de desenvolvimento
 	- Acesso ao colab e acesso a arquivos via drive e local
-- Variáveis, tipos de dados
+- Variáveis, tipos de dados -> OK
 	- citar alguns tipos
 	- Não tem tipagem
 	- alertar sobre conflitos de tipos
 	- casting
 - Comentários
 	- mostrar como fazer e melhores práticas
-- Operadores lógicos e aritméticos 
+- Operadores lógicos e aritméticos -> OK
 	- >, <, ==, !=, <=, >=, +, - , /, *, **, %, //
 - and, or, not, …
-- Estruturas de decisão (if, else, elif)
+- Estruturas de decisão (if, else, elif) -> OK
 	-Mostrar funcionamento com exemplos
 - Loops (while e for)
 	- mostrar com exemplos
