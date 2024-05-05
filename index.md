@@ -27,17 +27,17 @@
 	- mostrar como fazer e melhores práticas
 - Operadores lógicos e aritméticos -> OK
 	- >, <, ==, !=, <=, >=, +, - , /, *, **, %, //
-- and, or, not, …
+	- and, or, not, …
 - Estruturas de decisão (if, else, elif) -> OK
-	-Mostrar funcionamento com exemplos
-- Loops (while e for)
+	- Mostrar funcionamento com exemplos
+- Loops (while e for) -> OK
 	- mostrar com exemplos
 	- mostrar diferenças de iteração pelos elementos e pelas posições (zip, enumerate, range)
-- Listas e manipulação de listas
+- Listas e manipulação de listas -> OK
 	- append(), insert(), remove(), extend()
 	- splice de listas
 	- métodos úteis (reversed, sort)
-- Dicionários (mapas)
+- Dicionários (mapas) -> OK
 	- métodos simples
 	- inserções, remoções e consultas
 
