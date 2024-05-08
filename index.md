@@ -43,14 +43,14 @@
 
 
 *Aula 2*
-- Manipulação de Strings
+- Manipulação de Strings -> OK
 	- fstrings, falar são listas
-- Definindo funções
+- Definindo funções -> OK
 	- mostrar exemplo
-- Parâmetros e retorno de funções
+- Parâmetros e retorno de funções -> OK
 	-mostrar exemplo
-- Gerenciamento de pacotes com pip
-- Utilização de módulos externos
+- Gerenciamento de pacotes com pip -> OK
+- Utilização de módulos externos -> OK
 	- mostrar o motivo de utilizar “.” para acessar métodos
 - Mini-Mini Introdução ao Pandas
 
